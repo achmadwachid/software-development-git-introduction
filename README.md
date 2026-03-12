@@ -3,3 +3,8 @@ Repository ini dibuat sebagai tugas pengenalan Git dan GitHub pada mata kuliah S
 
 Nama : Achmad Wachid Syaiful Ilzami
 NPM : 2313020271
+
+# Tools yang digunakan
+- Git
+- GitHub
+- Visual Studio Code
